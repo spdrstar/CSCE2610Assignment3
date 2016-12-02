@@ -44,5 +44,5 @@ Desired output: 18 DIV 3 = (Q = 6, R = 0)
 
 Screenshot:
 
-![18 Divded by 3](master/18DIV3.png)
+![18 Divded by 3](CSCE2610Assignment3/18DIV3.PNG)
 
