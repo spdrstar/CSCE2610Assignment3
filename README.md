@@ -44,5 +44,20 @@ Desired output: 18 DIV 3 = (Q = 6, R = 0)
 
 Screenshot:
 
-![18 Divded by 3](CSCE2610Assignment3/18DIV3.PNG?raw=true "test")
+![18 Divded by 3](/18DIV3.PNG?raw=true)
 
+Test Case 2: 19/4 
+
+Desired output: 19 DIV 4 = (Q = 4, R = 3)
+
+Screenshot:
+
+![19 Divded by 4](/19DIV4.PNG?raw=true)
+
+Test Case 3: 8/12 
+
+Desired output: 8 DIV 12 = (Q = 0, R = 8)
+
+Screenshot:
+
+![8 Divded by 12](/8DIV12.PNG?raw=true)
