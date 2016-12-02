@@ -52,7 +52,7 @@ Desired output: 19 DIV 4 = (Q = 4, R = 3)
 
 Screenshot:
 
-![19 Divded by 4](/19DIV4.PNG?raw=true)
+![19 Divded by 4](/19DIV4.png?raw=true)
 
 Test Case 3: 8/12 
 
