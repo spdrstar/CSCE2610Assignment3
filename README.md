@@ -38,6 +38,11 @@ If you choose to use ARMSim, these are the instructions to test the program.
 # Sample Test Cases
 Below are my sample test cases to demonstrate the program
 
-Test Case 1: 18/3 (Desired output: 18 DIV 3 (Q = 6, R = 0)
+Test Case 1: 18/3 
+
+Desired output: 18 DIV 3 = (Q = 6, R = 0)
+
 Screenshot:
+
+![18 Divded by 3](master/18DIV3.png)
 
